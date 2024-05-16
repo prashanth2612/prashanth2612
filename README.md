@@ -13,8 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=prashanth2612&label=Profile%20views&color=0e75b6&style=flat" alt="prashanth2612" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-
 <h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working on **Web Development**
