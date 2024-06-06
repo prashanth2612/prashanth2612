@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **React Native & Machine Learning**
 - 👯 I’m looking to collaborate on **React Native**
-- 🤝 I’m looking for help with **App Development**
+- 🤝 I’m looking for help with **MEDICAL LLM**
 - 💬 Ask me about **React**
 - 📫 How to reach me **prashanthit8074@gmail.com**
 
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth2612&theme=radical" alt="prashanth2612" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth2612 &theme=radical" alt="prashanth2612" />
 </p>
 
 |                                                                                                                |
