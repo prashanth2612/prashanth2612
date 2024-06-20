@@ -38,6 +38,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanth2612&show_icons=true&theme=radical" alt="prashanth2612" />
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth2612 &theme=radical" alt="prashanth2612" />
+</p> 
 
 
 
