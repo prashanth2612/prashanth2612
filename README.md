@@ -63,14 +63,11 @@ Software Engineer from Hyderabad, India with strong foundations in **Full-Stack 
 
 ## 💼 Experience
 
-**🏭 Founding Engineer** — Manufacturing Order Management Platform *(Dec 2025 – Jan 2026)*
-> Built a B2B Procurement Platform with **LangGraph agents** that cut quotation cycles from hours to under 15 minutes. Architected a polyglot FastAPI/Node.js backend achieving 99.9% uptime; reduced costs by 25% via RAG + prompt compression.
-
-**🚚 Software Engineer (Freelance)** — RapidFix Technologies *(Sep 2025 – Nov 2025)*
-> Delivered a real-time logistics dashboard with WebSockets. Reduced API latency by **69%** using Redis caching & optimized MongoDB queries. Fixed 15+ critical production bugs via RCA on network traces.
-
-**🏢 Full Stack Intern** — Supraja Technologies *(Jun 2024 – Sep 2024)*
-> Contributed to a MERN HRIS payroll module using T-SQL transactions. Optimized stored procedures, improving data retrieval speeds by **40%** on large datasets.
+| Role | Company & Period | Highlights | Stack |
+|------|-----------------|------------|-------|
+| 🏭 Founding Engineer | Manufacturing Order Mgmt Platform · *Dec 2025 – Jan 2026* | LangGraph agents cut quotation cycles to **<15 mins**; polyglot backend at **99.9% uptime**; eliminated **95% bid mismatches** via Pydantic; cut costs **25%** with RAG + prompt compression | LangGraph, FastAPI, Node.js, React, AWS, Docker |
+| 🚚 Software Engineer (Freelance) | RapidFix Technologies · *Sep 2025 – Nov 2025* | Built real-time logistics dashboard with WebSockets; reduced API latency by **69%** via Redis caching; resolved **15+ critical** production bugs via RCA | React, Node.js, Redis, WebSockets, MongoDB |
+| 🏢 Full Stack Intern | Supraja Technologies · *Jun 2024 – Sep 2024* | Payroll modules with T-SQL transactions; optimized stored procedures improving retrieval by **40%**; RESTful APIs in high-availability AWS environments | React, Node.js, MS SQL Server, T-SQL, AWS |
 
 ---
 
@@ -78,10 +75,10 @@ Software Engineer from Hyderabad, India with strong foundations in **Full-Stack 
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| [Netflix-GPT](https://github.com/prashanth2612/Netflix-Gpt1) | AI discovery agent using GPT-3.5 to map natural language to movie search; **65% perf boost** via Redux caching | React, Redux, OpenAI |
-| [Multi-Tenant ERP-CRM](https://github.com/prashanth2612/Employee-Management) | Modular MERN ERP with multi-tenancy, i18n & reusable UI library; reduced dev overhead by **30%** | MERN, Redux |
+| [Netflix-GPT](https://github.com/prashanth2612/Netflix-Gpt1) | GPT-3.5 agent maps natural language to movie search parameters; **65% perf boost** via Redux caching of AI responses, reducing token costs & latency | React, Redux, OpenAI GPT-3.5 |
+| [Multi-Tenant ERP-CRM](https://github.com/prashanth2612/Employee-Management) | Modular MERN ERP with multi-tenancy, i18n & strict data isolation; reusable UI library reduced dev overhead by **30%** | MERN, Redux Toolkit |
 | [Coffee With Corporates](https://github.com/prashanth2612/Coffe_With_Corporates) | Platform connecting professionals for mentorship & networking | React, Node.js |
-| [Frontend System Design](https://github.com/prashanth2612/NAMASTE-FRONTEND-SYSTEM-DESIGN) | Structured notes & implementations from Namaste Frontend System Design | JavaScript |
+| [Frontend System Design](https://github.com/prashanth2612/NAMASTE-FRONTEND-SYSTEM-DESIGN) | Structured notes & implementations from Namaste Frontend System Design course | JavaScript |
 
 ---
 
