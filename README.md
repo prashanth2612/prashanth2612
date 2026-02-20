@@ -90,13 +90,6 @@ Software Engineer from Hyderabad, India with strong foundations in **Full-Stack 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanth2612&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=prashanth2612&theme=tokyonight" height="165"/>
-</p>
-
 ---
 
 <p align="center">
