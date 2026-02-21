@@ -154,33 +154,6 @@ const prashanth = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 &nbsp;[Netflix-GPT](https://github.com/prashanth2612/Netflix-Gpt1)
-> AI-powered movie discovery agent
-
-GPT-3.5 maps natural language to structured search params. Parses AI outputs to validated DB IDs preventing UI mismatches. **65% performance boost** via Redux caching of AI responses, reducing token costs & latency.
-
-![React](https://img.shields.io/badge/React-000?style=flat-square&logoColor=06C167)
-![Redux](https://img.shields.io/badge/Redux-000?style=flat-square&logoColor=06C167)
-![GPT-3.5](https://img.shields.io/badge/GPT--3.5-000?style=flat-square&logoColor=06C167)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logoColor=06C167)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 &nbsp;[Multi-Tenant ERP-CRM](https://github.com/prashanth2612/Employee-Management)
-> Modular enterprise platform
-
-Modular MERN ERP-CRM with multi-tenancy, i18n & strict data isolation. Optimized React hooks for complex state. Reusable UI library reduced dev overhead by **30%**.
-
-![MERN](https://img.shields.io/badge/MERN-000?style=flat-square&logoColor=06C167)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-000?style=flat-square&logoColor=06C167)
-![i18n](https://img.shields.io/badge/i18n-000?style=flat-square&logoColor=06C167)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### ☕ &nbsp;[Coffee With Corporates](https://github.com/prashanth2612/Coffe_With_Corporates)
 > ERP-CRM platform
 
@@ -193,6 +166,21 @@ Full-featured ERP-CRM platform with modular architecture, designed for corporate
 </td>
 <td width="50%" valign="top">
 
+### 🎬 &nbsp;[Netflix-GPT](https://github.com/prashanth2612/Netflix-Gpt1)
+> AI-powered movie discovery agent
+
+GPT-3.5 maps natural language to structured search params. Parses AI outputs to validated DB IDs preventing UI mismatches. **65% performance boost** via Redux caching of AI responses, reducing token costs & latency.
+
+![React](https://img.shields.io/badge/React-000?style=flat-square&logoColor=06C167)
+![Redux](https://img.shields.io/badge/Redux-000?style=flat-square&logoColor=06C167)
+![GPT-3.5](https://img.shields.io/badge/GPT--3.5-000?style=flat-square&logoColor=06C167)
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logoColor=06C167)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📐 &nbsp;[Frontend System Design](https://github.com/prashanth2612/NAMASTE-FRONTEND-SYSTEM-DESIGN)
 > Architecture & patterns
 
@@ -202,11 +190,10 @@ Comprehensive notes & implementations covering performance optimization, scalabl
 ![System Design](https://img.shields.io/badge/System_Design-000?style=flat-square&logoColor=06C167)
 
 </td>
+<td width="50%" valign="top">
+</td>
 </tr>
 </table>
-
-<br/>
-
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
