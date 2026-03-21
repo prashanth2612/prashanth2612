@@ -124,9 +124,9 @@ const prashanth = {
 
 <table width="100%">
 <tr>
-<td width="8%" align="center"><b>🏭</b></td>
-<td width="30%"><b>Founding Engineer</b><br/><sub><code>Dec 2025 – Jan 2026</code></sub></td>
-<td width="62%">B2B Procurement Platform — <b>LangGraph Agents</b> cut quotation cycles to <b>&lt;15 mins</b>. Polyglot FastAPI/Node.js backend at <b>99.9% uptime</b>. Eliminated <b>95% bid mismatches</b> via Pydantic. Cut costs <b>25%</b> via RAG + prompt compression. Deployed Dockerized AWS stack with Nginx.<br/><br/><sub><img src="https://img.shields.io/badge/LangGraph-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/React-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/AWS-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logoColor=06C167"/></sub></td>
+<td align="center"><b>🤖</b></td>
+<td><b>Founder</b><br/><sub><i>NexaBid</i></sub><br/><sub><code>Personal Project</code></sub></td>
+<td>AI-powered B2B marketplace architected to scale to <b>1M+ users</b> via load balancing, DB sharding & stateless web tier. Shipped core features in <b>5 weeks</b> for 200+ beta users achieving <b>95% bid–match</b> with Pydantic-validated LLM outputs. Built <b>25+ LangGraph agents & chatbots</b> reducing procurement time by <b>60%</b>. Designed <b>Kafka pub/sub</b> architecture cutting latency <b>35%</b>. Engineered <b>Stripe escrow</b> with webhook states & JWT auth, processing <b>$2K+ transactions</b> with zero failures. Dockerized 4 microservices on AWS via <b>GitHub Actions CI/CD</b>, reducing deployment errors by <b>50%</b>.<br/><br/><sub><img src="https://img.shields.io/badge/LangGraph-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/Kafka-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/Stripe-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/AWS-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logoColor=06C167"/> <img src="https://img.shields.io/badge/Pydantic-000?style=flat-square&logoColor=06C167"/></sub></td>
 </tr>
 <tr><td colspan="3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></td></tr>
 <tr>
@@ -154,6 +154,21 @@ const prashanth = {
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 &nbsp;[NexaBid](https://github.com/prashanth2612)
+> AI-powered B2B marketplace
+
+Identified zero connectivity between manufacturers and buyers; engineered NexaBid to scale to **1M+ users** via load balancing, DB sharding & stateless web tier. **25+ LangGraph agents** automate procurement workflows, cutting cycle time by **60%**. Kafka pub/sub decouples services; Stripe escrow processes **$2K+ transactions** with zero failures.
+
+![LangGraph](https://img.shields.io/badge/LangGraph-000?style=flat-square&logoColor=06C167)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logoColor=06C167)
+![Kafka](https://img.shields.io/badge/Kafka-000?style=flat-square&logoColor=06C167)
+![Stripe](https://img.shields.io/badge/Stripe-000?style=flat-square&logoColor=06C167)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logoColor=06C167)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logoColor=06C167)
+
+</td>
+<td width="50%" valign="top">
+
 ### ☕ &nbsp;[Coffee With Corporates](https://github.com/prashanth2612/Coffe_With_Corporates)
 > ERP-CRM platform
 
@@ -164,6 +179,8 @@ Full-featured ERP-CRM platform with modular architecture, designed for corporate
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logoColor=06C167)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎬 &nbsp;[Netflix-GPT](https://github.com/prashanth2612/Netflix-Gpt1)
@@ -177,8 +194,6 @@ GPT-3.5 maps natural language to structured search params. Parses AI outputs to 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logoColor=06C167)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📐 &nbsp;[Frontend System Design](https://github.com/prashanth2612/NAMASTE-FRONTEND-SYSTEM-DESIGN)
@@ -190,10 +205,9 @@ Comprehensive notes & implementations covering performance optimization, scalabl
 ![System Design](https://img.shields.io/badge/System_Design-000?style=flat-square&logoColor=06C167)
 
 </td>
-<td width="50%" valign="top">
-</td>
 </tr>
 </table>
+
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
