@@ -154,7 +154,7 @@ const prashanth = {
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 &nbsp;[NexaBid](https://github.com/prashanth2612)
+### 🤖 &nbsp;[NexaBid](https://github.com/prashanth2612/NEXABID)
 > AI-powered B2B marketplace
 
 Identified zero connectivity between manufacturers and buyers; engineered NexaBid to scale to **1M+ users** via load balancing, DB sharding & stateless web tier. **25+ LangGraph agents** automate procurement workflows, cutting cycle time by **60%**. Kafka pub/sub decouples services; Stripe escrow processes **$2K+ transactions** with zero failures.
