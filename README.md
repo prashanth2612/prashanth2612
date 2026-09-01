@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=06C167)](mailto:prashanthit8074@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=06C167)](https://linkedin.com/in/prashanth-goud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=06C167)](https://linkedin.com/in/prashanthkatepally)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=06C167)](https://github.com/prashanth2612)
 [![Phone](https://img.shields.io/badge/+91_8074801486-000?style=for-the-badge&logo=whatsapp&logoColor=06C167)](tel:+918074801486)
 [![Location](https://img.shields.io/badge/Hyderabad,_India-000?style=for-the-badge&logo=google-maps&logoColor=06C167)](#)
